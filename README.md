@@ -31,13 +31,13 @@ endurance, or overall wellness, the app helps you stay consistent and track your
 
 ```bash
 # Clone the repository
-git clone https://...
+git clone https://github.com/mjoeli/my-fitness-app.git
 
 # Navigate into the project directory
-cd ...
+cd fitTrack
 
 # Install dependencies
-npm install ...
+npm install 
 
 # Start the development server
 npm start
