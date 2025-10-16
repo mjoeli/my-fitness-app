@@ -24,7 +24,7 @@ const Login: React.FC = () => {
 
       const doLogin = async(event: any) =>{
         event.preventDefault();
-        //Loading 
+        //Show Loading & after Login root to menu under /app. 
         await present('Logging in...');
         setTimeout(async () => {
           dissmiss();
